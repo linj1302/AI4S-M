@@ -1,0 +1,1 @@
+AI4S-M accelerates materials R&D by bridging LLMs with high-throughput computing. It fills a critical AI4S ecosystem gap, automating data mining and HPC scripting (VASP/LAMMPS) for advanced structures like COFs. Its open framework democratizes discovery, providing the community with reusable agent workflows and open datasets.
